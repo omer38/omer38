@@ -4,7 +4,6 @@
 - 👨‍💻 I am currently learning about Machine Learning and Deep Learning models, focusing on Generative Adversarial Networks.
 - 👯 Add me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omertugrul)
 - 📫 How to reach me: [o.tugrul@ug.bilkent.edu.tr](mailto:o.tugrul@ug.bilkent.edu.tr)
-- 🌱 My personal website: [omer38.github.io](link)
 
 ### Programming Languages
 [![phyton](https://skillicons.dev/icons?i=py) ](https://www.w3schools.com/python/) 
