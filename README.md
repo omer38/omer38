@@ -10,6 +10,7 @@
 [![C](https://skillicons.dev/icons?i=c) ](https://www.w3schools.com/c/) 
 [![VHDL](https://img.shields.io/badge/-VHDL-blue?style=flat&logo=VHDL&logoColor=white)](https://www.w3schools.com/whatis/whatis_vhdl.asp)
 [![MATLAB](https://skillicons.dev/icons?i=matlab)](https://www.mathworks.com/help/matlab/)
+[![R](https://skillicons.dev/icons?i=R)]()
 
 ### Machine Learning Tools
 [![pytorch](https://skillicons.dev/icons?i=pytorch) ](https://pytorch.org)
